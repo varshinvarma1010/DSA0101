@@ -1,0 +1,6 @@
+INPUT:
+harrypotter 2500
+
+OUTPUT:
+Book Name: harrypotter
+Price after discount: 2250
