@@ -1,0 +1,7 @@
+INPUT:
+Ravi 350
+
+OUTPUT:
+Name of the customer: Ravi
+Number of units consumed: 350
+Bill amount: 1326.25
