@@ -1,0 +1,7 @@
+INPUT:
+Ajay 9876543210 25000
+
+OUTPUT:
+Customer Name: Ajay
+Mobile Number: 9876543210
+Amount to be paid: 21250
