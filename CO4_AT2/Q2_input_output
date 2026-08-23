@@ -1,0 +1,15 @@
+INPUT:
+2
+101 Ravi Chennai 9876543210
+102 Priya Hyderabad 9123456780
+Manager Sales 50000 Chennai 9000000001
+Manager HR 65000 Hyderabad 9000000002
+3
+4
+
+OUTPUT:
+Highest Paid Manager:
+Manager Details
+Designation: Manager
+Department: HR
+Basic Salary: 65000
