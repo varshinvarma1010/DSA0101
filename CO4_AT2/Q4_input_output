@@ -1,0 +1,12 @@
+INPUT:
+3
+101 Pen 50 10
+102 Book 200 20
+103 Bag 500 15
+
+OUTPUT:
+Item No   Name           Price     Discount  Final Price
+101       Pen            50        10        45
+102       Book           200       20        160
+103       Bag            500       15        425
+Total Amount: 630.00
