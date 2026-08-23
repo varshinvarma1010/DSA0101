@@ -1,0 +1,12 @@
+INPUT:
+101 Ravi 30000
+5000 3000
+
+OUTPUT:
+Code: 101
+Name: Ravi
+Salary: 30000
+DA: 5000
+HRA: 3000
+TA: 3000
+Gross Salary: 41000
