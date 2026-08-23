@@ -1,0 +1,13 @@
+INPUT:
+James fairytale 3
+
+OUTPUT:
+Book Available
+Title: fairytale
+Author: James
+Publisher: ABC
+Price: 500
+Stock: 10
+Total Cost: 1500
+Transaction Successful
+Remaining Stock: 7
